@@ -1,7 +1,6 @@
 Hi, How are you
 
+<<<<<<< HEAD
 Hi , I am fine
 
-Hi, where are you
 
-Hi, where is indore shituwated
